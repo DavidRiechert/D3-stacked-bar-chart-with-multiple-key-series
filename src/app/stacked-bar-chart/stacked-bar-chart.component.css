@@ -1,0 +1,16 @@
+.productionChart {
+    height: 340px;
+  }
+.bars:hover {
+    fill: #ffd54f;
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 576px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1200px) {
+}
